@@ -1,0 +1,13 @@
+{
+    "name": "Shopping Cart",
+    "short_name": "ShopCart",
+    "icons":
+        [
+            {"src":"/Firebase-web-app.github.io/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":/"Firebase-web-app.github.io/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}
+        ],
+    "theme_color": "#EEF0F4",
+    "background_color": "#EEF0F4",
+    "scope": "/index.html",
+    "start_url": "/index.html",
+    "display": "standalone"
+}
